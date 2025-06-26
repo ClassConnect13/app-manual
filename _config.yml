@@ -51,7 +51,7 @@ just_the_docs:
     customization: false
   
   # Optional customization
-  logo: "logo.png"
+  logo: "/app-manual/logo.png"
   dark_mode: true
   color_scheme: "classconnect"
 
