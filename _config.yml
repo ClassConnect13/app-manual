@@ -4,7 +4,7 @@ theme: just-the-docs
 
 # Base configuration
 url: "https://classconnect13.github.io"
-baseurl: "/app-manual"  # Keep this since we're using /app-manual/
+baseurl: "/app-manual"
 
 # Disable all default Just the Docs collections
 collections_dir: ""
@@ -21,7 +21,7 @@ hide:
   - search
 
 # Navigation configuration
-nav_external_links: false  # Disable external nav
+nav_external_links: false
 
 # Explicit navigation order (matches your index.md)
 nav_order:
@@ -50,12 +50,6 @@ just_the_docs:
     navigation: false
     customization: false
   
-  # Optional customization
-  logo: 
-    image: "https://classconnect13.github.io/app-manual/assets/images/logo.png"
-    width: "40px"
-    alt: "ClassConnect"
-    title: "Return to Home"
   dark_mode: true
   color_scheme: "classconnect"
 
