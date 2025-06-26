@@ -11,37 +11,37 @@ This documentation provides comprehensive guidance for using ClassConnect, the i
 
 ## Getting Started
 
-- [System requirements](/getting-started/requirements)
-- [Create an account](/getting-started/sign-up)
-- [Sign-in](/getting-started/sign-in)
+- [System requirements](/app-manual/getting-started/requirements)
+- [Create an account](/app-manual/getting-started/sign-up)
+- [Sign-in](/app-manual/getting-started/sign-in)
 
 ## App Navigation
 
-- [Home screen](/app-navigation/home)
-- [Collapsible panel](/app-navigation/drawer)
-- [Notifications](/app-navigation/notifications)
+- [Home screen](/app-manual/app-navigation/home)
+- [Collapsible panel](/app-manual/app-navigation/drawer)
+- [Notifications](/app-manual/app-navigation/notifications)
 
 ## Profile
 
-- [View your profile](/profile/profile)
-- [Edit your profile](/profile/profile-edit)
-- [Delete your profile](/profile/profile-delete)
+- [View your profile](/app-manual/profile/profile)
+- [Edit your profile](/app-manual/profile/profile-edit)
+- [Delete your profile](/app-manual/profile/profile-delete)
 
 ## Courses
 
-- [View your courses](/courses/courses)
-- [Join a course](/courses/course-join)
-- [Create a course](/courses/course-create)
-- [Explore a course](/courses/course-view)
-- [Edit a course](/courses/course-edit)
-- [Leave a course #PENDING](/courses/course-leave)
-- [Delete a course](/courses/course-delete)
+- [View your courses](/app-manual/courses/courses)
+- [Join a course](/app-manual/courses/course-join)
+- [Create a course](/app-manual/courses/course-create)
+- [Explore a course](/app-manual/courses/course-view)
+- [Edit a course](/app-manual/courses/course-edit)
+- [Leave a course](/app-manual/courses/course-leave)
+- [Delete a course](/app-manual/courses/course-delete)
 
 ## Feedbacks
 
-- [View your feedbacks](/feedbacks/feedbacks)
-- [Submit feedback to a course](/feedbacks/feedback-course)
-- [Submit feedback to a student](/feedbacks/feedback-student)
+- [View your feedbacks](/app-manual/feedbacks/feedbacks)
+- [Submit feedback to a course](/app-manual/feedbacks/feedback-course)
+- [Submit feedback to a student](/app-manual/feedbacks/feedback-student)
 
 ---
 
