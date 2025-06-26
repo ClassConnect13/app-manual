@@ -29,11 +29,11 @@ Displays your current account details:
 
 ### Edit Profile
 - Tap "Edit profile" to modify your information
-- Opens the [profile editing screen](profile-edit.md)
+- Opens the [profile editing screen](/app-manual/profile/profile-edit)
 
 ### Delete Account
 - Permanently remove your ClassConnect account
-- Opens the [account deletion screen](profile-delete.md)
+- Opens the [account deletion screen](/app-manual/profile/profile-delete)
 - Requires confirmation
 
 ### Sign Out
