@@ -6,68 +6,67 @@ theme: just-the-docs
 url: "https://classconnect13.github.io"
 baseurl: "/app-manual"
 
-# Site settings
-aux_links:
-  "ClassConnect GitHub": https://github.com/classconnect13/app-manual
+# Collections for automatic navigation
+collections:
+  getting_started:
+    title: Getting Started
+    output: true
+  app_navigation:
+    title: App Navigation
+    output: true
+  profile:
+    title: Profile
+    output: true
+  courses:
+    title: Courses
+    output: true
+  feedbacks:
+    title: Feedbacks
+    output: true
 
-# Navigation with correct /app-manual/ paths
-nav_external_links:
-  - title: Getting Started
-    children:
-      - title: System requirements
-        url: /app-manual/getting-started/requirements
-      - title: Create an account
-        url: /app-manual/getting-started/sign-up
-      - title: Sign-in
-        url: /app-manual/getting-started/sign-in
+# Default front matter values
+defaults:
+  - scope:
+      path: "getting-started"
+      type: getting_started
+    values:
+      layout: default
+      nav_order: 1
+  - scope:
+      path: "app-navigation"
+      type: app_navigation
+    values:
+      layout: default
+      nav_order: 2
+  - scope:
+      path: "profile"
+      type: profile
+    values:
+      layout: default
+      nav_order: 3
+  - scope:
+      path: "courses"
+      type: courses
+    values:
+      layout: default
+      nav_order: 4
+  - scope:
+      path: "feedbacks"
+      type: feedbacks
+    values:
+      layout: default
+      nav_order: 5
 
-  - title: App Navigation
-    children:
-      - title: Home screen
-        url: /app-manual/app-navigation/home
-      - title: Collapsible panel
-        url: /app-manual/app-navigation/drawer
-      - title: Notifications
-        url: /app-manual/app-navigation/notifications
-
-  - title: Profile
-    children:
-      - title: View your profile
-        url: /app-manual/profile/profile
-      - title: Edit your profile
-        url: /app-manual/profile/profile-edit
-      - title: Delete your profile
-        url: /app-manual/profile/profile-delete
-
-  - title: Courses
-    children:
-      - title: View your courses
-        url: /app-manual/courses/courses
-      - title: Join a course
-        url: /app-manual/courses/course-join
-      - title: Create a course
-        url: /app-manual/courses/course-create
-      - title: Explore a course
-        url: /app-manual/courses/course-view
-      - title: Edit a course
-        url: /app-manual/courses/course-edit
-      - title: Leave a course
-        url: /app-manual/courses/course-leave
-      - title: Delete a course
-        url: /app-manual/courses/course-delete
-
-  - title: Feedbacks
-    children:
-      - title: View your feedbacks
-        url: /app-manual/feedbacks/feedbacks
-      - title: Submit feedback to a course
-        url: /app-manual/feedbacks/feedback-course
-      - title: Submit feedback to a student
-        url: /app-manual/feedbacks/feedback-student
-
-# Just the Docs specific settings
+# Just the Docs settings
 just_the_docs:
-  # Optional: Customize appearance
-  logo: "assets/images/logo.svg"
-  dark_mode: true
-  color_scheme: "classconnect"  # You can define custom schemes
+  collections:
+    getting_started:
+      name: Getting Started
+    app_navigation:
+      name: App Navigation
+    profile:
+      name: Profile
+    courses:
+      name: Courses
+    feedbacks:
+      name: Feedbacks
