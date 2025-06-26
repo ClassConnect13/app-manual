@@ -7,7 +7,7 @@ parent: Profile
 
 # Delete Your Account
 
-Permanently remove your ClassConnect account and all associated data. Accessed via the [Delete Account] button on your [profile page](profile.md).
+Permanently remove your ClassConnect account and all associated data. Accessed via the [Delete Account] button on your [profile page](/app-manual/profile/profile).
 
 <p style="clear:both;"></p>
 <img src="assets/profile-delete.png" alt="Account Deletion Confirmation" style="width:300px; float:left; margin-right:15px;"/>

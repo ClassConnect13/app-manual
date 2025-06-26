@@ -7,7 +7,7 @@ parent: Profile
 
 # Edit Your Profile
 
-Modify your personal information in ClassConnect. Accessed via the [Edit profile] button on your [profile page](profile.md).
+Modify your personal information in ClassConnect. Accessed via the [Edit profile] button on your [profile page](/app-manual/profile/profile).
 
 <p style="clear:both;"></p>
 <img src="assets/profile-edit.png" alt="Edit Profile Screen" style="width:300px; float:left; margin-right:15px;"/>

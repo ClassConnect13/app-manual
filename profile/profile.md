@@ -7,7 +7,7 @@ parent: Profile
 
 # Your Profile
 
-Access your personal information and account management options. This screen can be accessed from the [Navigation Panel](drawer.md).
+Access your personal information and account management options. This screen can be accessed from the [Navigation Panel](/app-manual/app-navigation/drawer).
 
 <p style="clear:both;"></p>
 <img src="assets/profile.png" alt="Profile Screen" style="width:300px; float:left; margin-right:15px;"/>
