@@ -1,62 +1,77 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: ClassConnect User Manual
+description: Documentation for ClassConnect learning management system
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# Base configuration
+url: "https://classconnect13.github.io"
+baseurl: "/app-manual"
 
+# Site settings
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "ClassConnect GitHub": https://github.com/classconnect13/app-manual
 
+# Navigation with correct /app-manual/ paths
 nav_external_links:
   - title: Getting Started
     children:
       - title: System requirements
-        url: /getting-started/requirements
+        url: /app-manual/getting-started/requirements
       - title: Create an account
-        url: /getting-started/sign-up
+        url: /app-manual/getting-started/sign-up
       - title: Sign-in
-        url: /getting-started/sign-in
+        url: /app-manual/getting-started/sign-in
 
   - title: App Navigation
     children:
       - title: Home screen
-        url: /app-navigation/home
+        url: /app-manual/app-navigation/home
       - title: Collapsible panel
-        url: /app-navigation/drawer
+        url: /app-manual/app-navigation/drawer
       - title: Notifications
-        url: /app-navigation/notifications
+        url: /app-manual/app-navigation/notifications
 
   - title: Profile
     children:
       - title: View your profile
-        url: /profile/profile
+        url: /app-manual/profile/profile
       - title: Edit your profile
-        url: /profile/profile-edit
+        url: /app-manual/profile/profile-edit
       - title: Delete your profile
-        url: /profile/profile-delete
+        url: /app-manual/profile/profile-delete
 
   - title: Courses
     children:
       - title: View your courses
-        url: /courses/courses
+        url: /app-manual/courses/courses
       - title: Join a course
-        url: /courses/course-join
+        url: /app-manual/courses/course-join
       - title: Create a course
-        url: /courses/course-create
+        url: /app-manual/courses/course-create
       - title: Explore a course
-        url: /courses/course-view
+        url: /app-manual/courses/course-view
       - title: Edit a course
-        url: /courses/course-edit
+        url: /app-manual/courses/course-edit
       - title: Leave a course
-        url: /courses/course-delete
+        url: /app-manual/courses/course-leave
       - title: Delete a course
-        url: /courses/course-delete
+        url: /app-manual/courses/course-delete
 
   - title: Feedbacks
     children:
       - title: View your feedbacks
-        url: /feedbacks/feedbacks
+        url: /app-manual/feedbacks/feedbacks
       - title: Submit feedback to a course
-        url: /feedbacks/feedback-course
+        url: /app-manual/feedbacks/feedback-course
       - title: Submit feedback to a student
-        url: /feedbacks/feedback-student
+        url: /app-manual/feedbacks/feedback-student
+
+# Plugin configuration
+plugins:
+  - jekyll-relative-links
+
+# Just the Docs specific settings
+just_the_docs:
+  # Optional: Customize appearance
+  logo: "assets/images/logo.svg"
+  dark_mode: true
+  color_scheme: "classconnect"  # You can define custom schemes
