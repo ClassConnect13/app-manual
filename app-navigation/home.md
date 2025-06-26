@@ -3,7 +3,6 @@ layout: default
 title: Home Screen
 nav_order: 1
 parent: App Navigation
-has_children: false
 ---
 
 # Home Screen

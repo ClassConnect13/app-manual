@@ -3,7 +3,6 @@ layout: default
 title: Edit Your Profile
 nav_order: 2
 parent: Profile
-has_children: false
 ---
 
 # Edit Your Profile

@@ -3,7 +3,6 @@ layout: default
 title: Notifications
 nav_order: 3
 parent: App Navigation
-has_children: false
 ---
 
 # Notifications Center

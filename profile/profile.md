@@ -3,7 +3,6 @@ layout: default
 title: View Your Profile
 nav_order: 1
 parent: Profile
-has_children: false
 ---
 
 # Your Profile

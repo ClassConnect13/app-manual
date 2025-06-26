@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Sign In
-nav_order: 4
+nav_order: 3
 parent: Getting Started
-has_children: false
 ---
 
 # Sign In to ClassConnect

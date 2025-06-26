@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Create an Account
-nav_order: 3
+nav_order: 2
 parent: Getting Started
-has_children: false
 ---
 
 # Create an Account

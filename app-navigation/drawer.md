@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Navigation Panel
-nav_order: 1
+nav_order: 2
 parent: App Navigation
-has_children: false
 ---
 
 # Navigation Panel
