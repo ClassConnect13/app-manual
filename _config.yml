@@ -6,3 +6,57 @@ url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+nav_external_links:
+  - title: Getting Started
+    children:
+      - title: System requirements
+        url: /getting-started/requirements
+      - title: Create an account
+        url: /getting-started/sign-up
+      - title: Sign-in
+        url: /getting-started/sign-in
+
+  - title: App Navigation
+    children:
+      - title: Home screen
+        url: /app-navigation/home
+      - title: Collapsible panel
+        url: /app-navigation/drawer
+      - title: Notifications
+        url: /app-navigation/notifications
+
+  - title: Profile
+    children:
+      - title: View your profile
+        url: /profile/profile
+      - title: Edit your profile
+        url: /profile/profile-edit
+      - title: Delete your profile
+        url: /profile/profile-delete
+
+  - title: Courses
+    children:
+      - title: View your courses
+        url: /courses/courses
+      - title: Join a course
+        url: /courses/course-join
+      - title: Create a course
+        url: /courses/course-create
+      - title: Explore a course
+        url: /courses/course-view
+      - title: Edit a course
+        url: /courses/course-edit
+      - title: Leave a course
+        url: /courses/course-delete
+      - title: Delete a course
+        url: /courses/course-delete
+
+  - title: Feedbacks
+    children:
+      - title: View your feedbacks
+        url: /feedbacks/feedbacks
+      - title: Submit feedback to a course
+        url: /feedbacks/feedback-course
+      - title: Submit feedback to a student
+        url: /feedbacks/feedback-student
