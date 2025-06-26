@@ -6,7 +6,7 @@ has_children: true
 ---
 
 # User Manual for ClassConnect
-ClassConnect is an integrated learning management system (LMS) designed to streamline education by connecting educators and students through intuitive course management, real-time feedback, and collaborative tools—all in one unified platform.
+ClassConnect is an integrated learning management system (LMS) designed to streamline education by connecting educators and students through intuitive course management, real-time feedback, and much more.
 {: .fs-6 .fw-300 }
 
 [View it on GitHub](https://github.com/ClassConnect13/app){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
