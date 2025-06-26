@@ -42,7 +42,7 @@ After installation:
 2. You will see the splash screen displaying the ClassConnect logo (see below)
 
 <p style="clear:both;"></p>
-<img src="/assets/splash.png" alt="Splash Screen" style="width:300px; float:left; margin-right:15px;"/>
+<img src="assets/splash.png" alt="Splash Screen" style="width:300px; float:left; margin-right:15px;"/>
 <p style="clear:both;"></p>
 
 3. The app will then show the start screen where you can:
@@ -50,5 +50,5 @@ After installation:
    - Sign in if you already have an account
 
 <p style="clear:both;"></p>
-<img src="/assets/first-screen.png" alt="Start Screen" style="width:300px; float:left; margin-right:15px;"/>
+<img src="assets/first-screen.png" alt="Start Screen" style="width:300px; float:left; margin-right:15px;"/>
 <p style="clear:both;"></p>
