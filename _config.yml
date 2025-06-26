@@ -51,8 +51,11 @@ just_the_docs:
     customization: false
   
   # Optional customization
-  logo: "https://classconnect13.github.io/app-manual/assets/images/logo.png"
-  logo_width: "40px"
+  logo: 
+    image: "https://classconnect13.github.io/app-manual/assets/images/logo.png"
+    width: "40px"
+    alt: "ClassConnect"
+    title: "Return to Home"
   dark_mode: true
   color_scheme: "classconnect"
 
