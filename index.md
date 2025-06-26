@@ -11,37 +11,37 @@ This documentation provides comprehensive guidance for using ClassConnect, the i
 
 ## Getting Started
 
-- [System requirements](requirements.md)
-- [Create an account](sign-up.md)
-- [Sign-in](sign-in.md)
+- [System requirements](/getting-started/requirements)
+- [Create an account](/getting-started/sign-up)
+- [Sign-in](/getting-started/sign-in)
 
 ## App Navigation
 
-- [Home screen](home.md)
-- [Collapsible panel](drawer.md)
-- [Notifications](notifications.md)
+- [Home screen](/app-navigation/home)
+- [Collapsible panel](/app-navigation/drawer)
+- [Notifications](/app-navigation/notifications)
 
 ## Profile
 
-- [View your profile](profile.md)
-- [Edit your profile](profile-edit.md)
-- [Delete your profile](profile-delete.md)
+- [View your profile](/profile/profile)
+- [Edit your profile](/profile/profile-edit)
+- [Delete your profile](/profile/profile-delete)
 
 ## Courses
 
-- [View your courses](courses.md)
-- [Join a course](course-join.md)
-- [Create a course](course-create.md)
-- [Explore a course](course-view.md)
-- [Edit a course](course-edit.md)
-- [Leave a course #PENDING](course-delete.md)
-- [Delete a course](course-delete.md)
+- [View your courses](/courses/courses)
+- [Join a course](/courses/course-join)
+- [Create a course](/courses/course-create)
+- [Explore a course](/courses/course-view)
+- [Edit a course](/courses/course-edit)
+- [Leave a course #PENDING](/courses/course-leave)
+- [Delete a course](/courses/course-delete)
 
 ## Feedbacks
 
-- [View your feedbacks](feedbacks.md)
-- [Submit feedback to a course](feedback-course.md)
-- [Submit feedback to a student](feedback-student.md)
+- [View your feedbacks](/feedbacks/feedbacks)
+- [Submit feedback to a course](/feedbacks/feedback-course)
+- [Submit feedback to a student](/feedbacks/feedback-student)
 
 ---
 
