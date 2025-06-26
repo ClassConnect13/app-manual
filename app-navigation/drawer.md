@@ -29,21 +29,21 @@ The collapsible navigation panel provides quick access to key sections of ClassC
 ### Navigation Options
 
 1. **Home**
-   - Returns you to the [home screen](home.md)
+   - Returns you to the [home screen](/app-manual/app-navigation/home.md)
    - Closes the panel automatically
 
 2. **My Courses**
-   - Opens your [courses overview](courses.md)
+   - Opens your [courses overview](/app-manual/app-navigation/courses.md)
    - View all courses you're enrolled in
    - Join or create new courses
 
 3. **My Feedbacks**
-   - Access your [feedback dashboard](feedbacks.md)
+   - Access your [feedback dashboard](/app-manual/app-navigation/feedbacks.md)
    - View feedback from teachers (students)
    - Review feedback given to students (teachers)
 
 4. **Profile**
-   - Navigates to your [profile page](profile.md)
+   - Navigates to your [profile page](/app-manual/app-navigation/profile.md)
    - View and edit your account information
    - Access account management options
 

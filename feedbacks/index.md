@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Feedback System
+title: Feedbacks
 has_children: true
 nav_order: 5
 ---

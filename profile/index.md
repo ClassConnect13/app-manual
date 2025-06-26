@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Profile Management
+title: Profile
 has_children: true
 nav_order: 3
 ---

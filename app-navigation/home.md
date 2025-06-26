@@ -16,9 +16,9 @@ The ClassConnect home screen provides quick access to your upcoming tasks and fa
 ## Screen Layout
 
 ### Top Banner
-- **Navigation button**: Opens the [collapsible panel](drawer.md)
+- **Navigation button**: Opens the [collapsible panel](/app-manual/app-navigation/drawer.md)
 - **ClassConnect logo**: Centered in the banner
-- **Notifications button**: Access your [notifications](notifications.md)
+- **Notifications button**: Access your [notifications](/app-manual/app-navigation/notifications.md)
 
 ### Upcoming Exams & Assignments
 - Displays swipeable cards of pending exams and assignments
