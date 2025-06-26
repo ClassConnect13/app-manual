@@ -25,6 +25,7 @@ nav_external_links: false  # Disable external nav
 
 # Explicit navigation order (matches your index.md)
 nav_order:
+  - index.md
   - getting-started
   - app-navigation
   - profile
