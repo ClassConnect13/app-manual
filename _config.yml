@@ -4,69 +4,55 @@ theme: just-the-docs
 
 # Base configuration
 url: "https://classconnect13.github.io"
-baseurl: "/app-manual"
+baseurl: "/app-manual"  # Keep this since we're using /app-manual/
 
-# Collections for automatic navigation
-collections:
-  getting_started:
-    title: Getting Started
-    output: true
-  app_navigation:
-    title: App Navigation
-    output: true
-  profile:
-    title: Profile
-    output: true
-  courses:
-    title: Courses
-    output: true
-  feedbacks:
-    title: Feedbacks
-    output: true
+# Disable all default Just the Docs collections
+collections_dir: ""
+collections: {}
 
-# Default front matter values
-defaults:
-  - scope:
-      path: "getting-started"
-      type: getting_started
-    values:
-      layout: default
-      nav_order: 1
-  - scope:
-      path: "app-navigation"
-      type: app_navigation
-    values:
-      layout: default
-      nav_order: 2
-  - scope:
-      path: "profile"
-      type: profile
-    values:
-      layout: default
-      nav_order: 3
-  - scope:
-      path: "courses"
-      type: courses
-    values:
-      layout: default
-      nav_order: 4
-  - scope:
-      path: "feedbacks"
-      type: feedbacks
-    values:
-      layout: default
-      nav_order: 5
+# Hide unwanted default pages
+hide:
+  - CHANGELOG
+  - LICENSE
+  - README
+  - CODE_OF_CONDUCT
+  - CONTRIBUTING
+  - SECURITY
+  - search
 
-# Just the Docs settings
+# Navigation configuration
+nav_external_links: false  # Disable external nav
+
+# Explicit navigation order (matches your index.md)
+nav_order:
+  - getting-started
+  - app-navigation
+  - profile
+  - courses
+  - feedbacks
+
+# Just the Docs specific settings
 just_the_docs:
+  # Disable all default collections
   collections:
-    getting_started:
-      name: Getting Started
-    app_navigation:
-      name: App Navigation
-    profile:
-      name: Profile
-    courses:
-      name: Courses
-    feedbacks:
-      name: Feedbacks
+    config: false
+    ui_components: false
+    typography: false
+    buttons: false
+    labels: false
+    tables: false
+    lists: false
+    code: false
+    callouts: false
+    utilities: false
+    layout: false
+    navigation: false
+    customization: false
+  
+  # Optional customization
+  logo: "assets/images/logo.svg"
+  dark_mode: true
+  color_scheme: "classconnect"
+
+# Plugin management (empty unless you add specific plugins)
+plugins: []
