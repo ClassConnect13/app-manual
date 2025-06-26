@@ -52,6 +52,7 @@ just_the_docs:
   
   # Optional customization
   logo: "/assets/images/logo.png"
+  logo_width: "40px"
   dark_mode: true
   color_scheme: "classconnect"
 
