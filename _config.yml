@@ -65,10 +65,6 @@ nav_external_links:
       - title: Submit feedback to a student
         url: /app-manual/feedbacks/feedback-student
 
-# Plugin configuration
-plugins:
-  - jekyll-relative-links
-
 # Just the Docs specific settings
 just_the_docs:
   # Optional: Customize appearance
