@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create an Account
+title: Create an account
 nav_order: 2
 parent: Getting Started
 ---

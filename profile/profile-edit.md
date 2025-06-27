@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Edit Your Profile
+title: Edit your profile
 nav_order: 2
 parent: Profile
 ---

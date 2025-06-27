@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sign In
+title: Sign-in
 nav_order: 3
 parent: Getting Started
 ---

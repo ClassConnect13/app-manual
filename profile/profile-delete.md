@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Delete Your Account
+title: Delete your account
 nav_order: 3
 parent: Profile
 ---

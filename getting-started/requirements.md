@@ -1,6 +1,6 @@
 ---
 layout: default
-title: System Requirements
+title: System requirements
 nav_order: 1
 parent: Getting Started
 ---

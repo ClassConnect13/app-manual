@@ -1,6 +1,6 @@
 ---
 layout: default
-title: View Your Profile
+title: View your profile
 nav_order: 1
 parent: Profile
 ---
