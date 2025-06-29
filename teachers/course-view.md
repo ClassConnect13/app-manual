@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Explore a Course
+title: Explore a course
 nav_order: 2
 parent: Teachers
 ---
 
-# Explore A Course (Teacher View)
+# Explore A Course (Teachers)
 
 The central hub for all course activities, exams, and resources.
 

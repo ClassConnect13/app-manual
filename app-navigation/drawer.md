@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Navigation Panel
+title: Navigation panel
 nav_order: 2
 parent: App Navigation
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Submit Feedback to a Course
+title: Submit feedback to a course
 nav_order: 5
 parent: Students
 ---

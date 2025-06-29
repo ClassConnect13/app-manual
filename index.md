@@ -27,6 +27,7 @@ This documentation provides comprehensive guidance for using ClassConnect, the i
 - [Collapsible panel](/app-manual/app-navigation/drawer)
 - [Notifications](/app-manual/app-navigation/notifications)
 - [View your courses](/app-manual/app-navigation/courses)
+- [View your feedbacks](/app-manual/app-navigation/feedbacks)
 
 ## Profile
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: View Your Feedbacks
+title: View your feedbacks
 nav_order: 5
 parent: App Navigation
 ---

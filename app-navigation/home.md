@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home Screen
+title: Home screen
 nav_order: 1
 parent: App Navigation
 ---
