@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a Module
+title: Create a module
 nav_order: 5
 parent: Teachers
 ---
