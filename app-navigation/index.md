@@ -6,10 +6,3 @@ nav_order: 2
 ---
 
 # App Navigation
-
-Learn how to navigate and use the ClassConnect interface effectively.
-
-## Key Features
-- Home Screen Overview
-- Using the Collapsible Panel
-- Managing Notifications
