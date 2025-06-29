@@ -38,11 +38,10 @@ You'll receive notifications for:
 <p style="clear:both;"></p>
 
 3. **Mute Notifications**
-   - Tap the gear icon to mute/unmute notifications
-   - Configure notification preferences:
+   - Tap the switch icon to mute/unmute notifications
 
 <p style="clear:both;"></p>
-<img src="assets/notifications-clear.png" alt="Notification Settings" style="width:300px; float:left; margin-right:15px;"/>
+<img src="assets/notifications-mute.png" alt="Notification Settings" style="width:300px; float:left; margin-right:15px;"/>
 <p style="clear:both;"></p>
 
 ## Troubleshooting

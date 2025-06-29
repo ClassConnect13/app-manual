@@ -41,15 +41,15 @@ Alternatively, you can sign up using your Google account:
 After initial registration (via email or Google), you'll need to:
 
 1. Provide additional information:
+- First name
+- Last name
+- Country
+2. Tap "Continue"
 
 <p style="clear:both;"></p>
 <img src="assets/sign-up-complete.png" alt="Profile Completion Screen" style="width:300px; float:left; margin-right:15px;"/>
 <p style="clear:both;"></p>
 
-- First name
-- Last name
-- Country
-2. Tap "Complete Registration"
 
 ## Next Steps
 
