@@ -40,10 +40,10 @@ This documentation provides comprehensive guidance for using ClassConnect, the i
 - [Explore a course](/app-manual/teachers/course-view)
 - [Edit or delete a course](/app-manual/teachers/course-edit-delete)
 - [Manage auxiliary teachers](/app-manual/teachers/auxiliary)
-- [(*) Create a module](/app-manual/teachers/module-create)
-- [(*) Create a test or assignment](/app-manual/teachers/activity-create)
-- [(*) Correct a test or assignment](/app-manual/teachers/activity-correct)
-- [(*) Add new resources](/app-manual/teachers/resource-create)
+- [Create a module](/app-manual/teachers/module-create)
+- [Create a test or assignment](/app-manual/teachers/activity-create)
+- [Correct a test or assignment](/app-manual/teachers/activity-correct)
+- [Add new resources](/app-manual/teachers/resource-create)
 - [Submit feedback to a student](/app-manual/teachers/feedback-student)
 
 ## Students
