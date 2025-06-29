@@ -29,8 +29,8 @@ nav_order:
   - getting-started
   - app-navigation
   - profile
-  - courses
-  - feedbacks
+  - teachers
+  - students
 
 # Just the Docs specific settings
 just_the_docs:

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: View your courses
-nav_order: 1
-parent: Courses
+nav_order: 4
+parent: App Navigation
 ---
 
 # View Your Courses
@@ -34,12 +34,12 @@ Each course displays as a card with:
 ### Join Existing Course
 1. Tap the <span style="color:#4285F4;">⊕</span> button at bottom right
 2. Select "Join existing course"
-3. Opens the [course join screen](/app-manual/courses/course-join)
+3. Opens the [course join screen](/app-manual/students/course-join)
 
 ### Create New Course
 1. Tap the <span style="color:#4285F4;">⊕</span> button at bottom right
 2. Select "Create new course" 
-3. Opens the [course creation screen](/app-manual/courses/course-create)
+3. Opens the [course creation screen](/app-manual/teachers/course-create)
 
 ## Key Features
 

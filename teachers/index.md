@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Courses
+title: Teachers
 has_children: true
 nav_order: 4
 ---

@@ -1,13 +1,13 @@
 ---
 layout: default
 title: Join a course
-nav_order: 2
-parent: Courses
+nav_order: 1
+parent: Students
 ---
 
 # Join A Course
 
-Browse and join available courses. Accessed from [My Courses](/app-manual/courses/courses) by tapping "Join an existing course".
+Browse and join available courses. Accessed from [My Courses](/app-manual/app-navigation/courses) by tapping "Join an existing course".
 
 <p style="clear:both;"></p>
 <img src="assets/course-join.png" alt="Course Selection Screen" style="width:300px; float:left; margin-right:15px;"/>
@@ -35,10 +35,10 @@ Displays available courses as cards:
 ## Navigation
 
 - **Pagination**: Browse pages (bottom center)
-- **Back**: Returns to [My Courses](/app-manual/courses/courses)
+- **Back**: Returns to [My Courses](/app-manual/app-navigation/courses)
 - **Cancel**: Available during confirmation
 
 ## Important Notes
 
 - You may not be able to join a course if it's full
-- Course appears immediately in [your list](/app-manual/courses/courses) after joining
+- Course appears immediately in [your list](/app-manual/app-navigation/courses) after joining
