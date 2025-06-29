@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Leave a Course
+title: Leave a course
 nav_order: 3
 parent: Students
 ---
