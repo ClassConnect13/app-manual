@@ -53,6 +53,7 @@ This documentation provides comprehensive guidance for using ClassConnect, the i
 - [Explore a course](/app-manual/students/course-view)
 - [Leave a course](/app-manual/students/course-leave)
 - [Answer an activity or exam](/app-manual/students/activity-answer)
+- [View corrections for an activity or exam](/app-manual/students/activity-answer)
 - [Submit feedback to a course](/app-manual/students/feedback-course)
 
 ---
